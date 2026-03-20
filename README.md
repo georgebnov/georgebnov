@@ -10,8 +10,7 @@ I'm a 20 year old developer in Toronto. I build things that I want to understand
 - 🌍 Speak English, Russian, French. Understand Spanish. Failing at Chinese haha.
 - 💬 Ask me about **AI agents, data architecture, productivity, or why most devs are getting dumber with AI**.
 
-12-hour sessions on one project come easy, but so does burning out after a few of them. Working on fixing that (blog soon).
-
+12-hour sessions on one project come easy, but so does burning out after a few of them. Working on fixing that (blog soon).  
 But projects that outlasted the burnout... well:
 
 - 🏠 sift - AI lead scoring for real estate agents. Figures out which buyers are serious.
