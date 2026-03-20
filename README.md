@@ -15,7 +15,7 @@ I'm a 20 year old developer in Toronto. I build things that I want to understand
 - 🏠 sift - AI lead scoring for real estate agents. Figures out which buyers are serious.
 - 🏥 [locvm](https://github.com/locvm) - Locum doctor booking platform for clinics. ([Locvm](https://www.locvm.ca))
 - 📦 avqsklad - ERP, database, and QuickBooks all in one. Tracks everything in one spot. ([Avateq](https://www.avateq.com))
-- 📡 logreader - Signal analysis and coverage prediction tool for UHF and VHF waves. ([Avateq](https://www.avateq.com/logreader/))
+- 📡 logreader - Signal analysis and coverage prediction tool for UHF and VHF waves. ([LogReader](https://www.avateq.com/logreader/))
 - 🎙️ avatalks - AI content generator that writes in your voice using real data. ([AVAtalks](https://avatalkapp.com))
 - 📚 biblioteka - Home library lending system. Tracks who borrowed what.
 - 🧪 [LLM-Training-And-Learning](https://github.com/georgebnov/LLM-Training-And-Learning) - Training models and breaking models on my own hardware.
