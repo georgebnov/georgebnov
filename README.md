@@ -18,7 +18,7 @@ I'm a 20 year old developer in Toronto. I build things that I want to understand
 - 📡 logreader - Signal analysis and coverage prediction tool for UHF and VHF waves. ([LogReader](https://www.avateq.com/logreader/))
 - 🎙️ avatalks - AI content generator that writes in your voice using real data. ([AVAtalks](https://avatalkapp.com))
 - 🔊 quickNotes - iOS app for podcast notes with quick paste into Notion/Obsidian.
-- 📝 mdOrc - Tool that understands .md files and orchestrates context-aware prompt additions.
+- 📝 mdOrc - Tool that understands .md files, orchestrates context-aware prompt additions, and continously learns.
 - 📚 biblioteka - Home library lending system. Tracks who borrowed what.
 - 🧪 [LLM-Training-And-Learning](https://github.com/georgebnov/LLM-Training-And-Learning) - Training models and breaking models on my own hardware.
 
