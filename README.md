@@ -7,6 +7,7 @@ I'm a 21 year old developer in Toronto. I build things that I want to understand
 - 🤖 Building AI agents that score leads, orchestrate tasks, and manage data pipelines.
 - 🎸 Play fingerstyle guitar when I'm not on a screen.
 - ♟️ Recently picked up chess. Still terrible.
+- 🏌️ Started playing gold weekly... wasn't expecting it to be that fun
 - 🌍 Speak English, Russian, French. Understand Spanish. Failing at Chinese haha.
 - 💬 Ask me about **AI agents, data architecture, productivity, or why most devs are getting dumber with AI**.
 
