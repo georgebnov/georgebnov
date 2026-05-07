@@ -17,7 +17,7 @@ I'm a 21 year old developer in Toronto. I build things that I want to understand
 - 🏥 [locvm](https://github.com/locvm) - Locum doctor booking platform for clinics. ([Locvm](https://www.locvm.ca))
 - 📦 avqsklad - ERP, database, and QuickBooks all in one. Tracks everything in one spot. ([Avateq](https://www.avateq.com))
 - 📡 logreader - Signal analysis and coverage prediction tool for UHF and VHF waves. ([LogReader](https://www.avateq.com/logreader/))
-- 🎙️ avatalks - AI content generator that writes in your voice using real data. ([AVAtalks](https://avatalkapp.com))
+- 🖥️ AVQ-Support - Fully automated Tech Support for Avateq (Reduce simple question calls)
 - 🔊 quickNotes - iOS app for podcast notes with quick paste into Notion/Obsidian.
 - 📝 mdOrc - Tool that understands .md files, orchestrates context-aware prompt additions, and continously learns.
 - 📚 biblioteka - Home library lending system. Tracks who borrowed what.
