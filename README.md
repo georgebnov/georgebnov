@@ -1,6 +1,6 @@
 ### Hey, I'm George 👋
 
-I'm a 21 year old developer in Toronto. I build things that I want to understand to the bone, mostly around AI agents, ML models, and data systems. Currently focused on turning real estate data into something actually useful for agents and buyers.
+I'm a 21 year old developer in Toronto. I build things that I want to understand to the bone, mostly around AI agents, ML models, and data systems. Currently in love with learning how we can create guardrails and systems that mitigate chaos that AI agents can create in Codebases.
 
 - 🇨🇦🇦🇲🇰🇿 Based in Toronto. Armenian and Kazakh roots.
 - 🧠 Obsessing over focus, flow states, and how to use AI to amplify thinking instead of replacing it.
