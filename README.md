@@ -14,7 +14,7 @@ I'm a 21 year old developer in Toronto. I build things that I want to understand
 12-hour sessions on one project come easy, but so does burning out after a few of them. Working on fixing that (blog soon). <br>But projects that outlasted the burnout... well:
 
 - 🏠 sift - AI lead scoring for real estate agents. Figures out which buyers are serious.
-- 📬 sendable - Audits emails for deliverability and tracks domain reputation via DMARC.
+- 📬 [sendable](https://sndbl.com)- Audits emails for deliverability and tracks domain reputation via DMARC.
 - 🏥 [locvm](https://github.com/locvm) - Locum doctor booking platform for clinics. ([Locvm](https://www.locvm.ca))
 - 📦 avqsklad - ERP, database, and QuickBooks all in one. Tracks everything in one spot. ([Avateq](https://www.avateq.com))
 - 📡 [logreader](https://www.avateq.com/logreader/) - UHF/VHF signal analysis and coverage prediction. ([Avateq](https://www.avateq.com)) · [Featured on TV Tech 📰](https://www.tvtechnology.com/insights/opinion/atsc-3-0-at-nab-show-focused-on-brazil-low-cost-receivers)
