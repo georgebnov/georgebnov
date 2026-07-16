@@ -21,8 +21,7 @@ I'm a 21 year old developer in Toronto. I build things that I want to understand
 - 🖥️ AVQ-Support - Fully automated Tech Support for Avateq (Reduce simple question calls)
 - 🔊 quickNotes - iOS app for podcast notes with quick paste into Notion/Obsidian.
 - 📝 mdOrc - Tool that understands .md files, orchestrates context-aware prompt additions, and continously learns.
-- 📚 biblioteka - Home library lending system. Tracks who borrowed what.
-- 🧪 [LLM-Training-And-Learning](https://github.com/georgebnov/LLM-Training-And-Learning) - Training models and breaking models on my own hardware.
+- 🗺️ Kava - A program that record what cafes you've already been to!
 
 I'm always building something. If any of this is interesting, reach out.
 
