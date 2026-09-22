@@ -1,6 +1,11 @@
 ### Hey, I'm George 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=georgebnov&style=flat-square&color=181717&label=Profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=georgebnov&style=flat-square&color=181717&labelColor=555&label=Profile+views)
+[![Followers](https://img.shields.io/github/followers/georgebnov?style=flat-square&logo=github&logoColor=white&color=181717&labelColor=555)](https://github.com/georgebnov?tab=followers)
+[![Stars](https://img.shields.io/github/stars/georgebnov?affiliations=OWNER&label=stars&style=flat-square&logo=github&logoColor=white&color=181717&labelColor=555)](https://github.com/georgebnov?tab=repositories)
+[![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgeorgebnov&query=%24.public_repos&label=repos&style=flat-square&logo=github&logoColor=white&color=181717&labelColor=555)](https://github.com/georgebnov?tab=repositories)
+![Last commit](https://img.shields.io/github/last-commit/georgebnov/georgebnov?label=last%20commit&style=flat-square&logo=github&logoColor=white&color=181717&labelColor=555)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgeorgebnov.com&style=flat-square&label=georgebnov.com&up_message=online&down_message=offline&color=181717&labelColor=555)](https://georgebnov.com)
 
 I'm a 21 year old developer in Toronto. I build things that I want to understand to the bone, mostly around AI agents, ML models, and data systems. Right now I'm obsessed with the guardrails that stop AI agents from wreaking havoc in codebases, so teams can move fast without breaking things.
 
