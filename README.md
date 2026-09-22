@@ -1,5 +1,7 @@
 ### Hey, I'm George 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=georgebnov&style=flat-square&color=181717&label=Profile+views)
+
 I'm a 21 year old developer in Toronto. I build things that I want to understand to the bone, mostly around AI agents, ML models, and data systems. Right now I'm obsessed with the guardrails that stop AI agents from wreaking havoc in codebases, so teams can move fast without breaking things.
 
 - 🇨🇦🇦🇲🇰🇿 Based in Toronto. Armenian and Kazakh roots.
