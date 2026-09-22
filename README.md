@@ -1,3 +1,5 @@
+<img src="./assets/header.svg" alt="George — Toronto, flow state" width="100%">
+
 ### Hey, I'm George 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=georgebnov&style=flat-square&color=181717&labelColor=555&label=Profile+views)
