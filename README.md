@@ -14,7 +14,7 @@ I'm a 21 year old developer in Toronto. I build things that I want to understand
 - 🤖 Building AI agents that score leads, orchestrate tasks, and manage data pipelines.
 - 🎸 Play fingerstyle guitar when I'm not on a screen.
 - 🏌️ Started playing golf weekly... wasn't expecting it to be that fun
-- 🌍 Speak English, Russian, French. Understand Spanish. Failing in Hebrew haha.
+- 🌍 Speak English, Russian, French. Understand Spanish.
 - 💬 Ask me about **AI agents, data architecture, productivity, or why most devs are getting dumber with AI**.
 
 12-hour sessions on one project come easy, but so does burning out after a few of them. Working on fixing that (blog soon). <br>But projects that outlasted the burnout... well:
