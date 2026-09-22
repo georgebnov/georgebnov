@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" alt="George — Toronto, flow state" width="100%">
+<img src="./assets/header.svg" alt="george: a guitar neck that doubles as a data pipeline, with a guardrail blocking dangerous commands" width="100%">
 
 ### Hey, I'm George 👋
 
