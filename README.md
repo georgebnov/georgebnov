@@ -36,7 +36,7 @@ I'm always building something. If any of this is interesting, reach out.
 
 ### Contributions / Mentions
 
-- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Proposed the forgotten screenshots category for the Cleaner. Credited in the changelog. ([#1862](https://github.com/vorssaint/vorssaint-utils/discussions/1862) · [#2040](https://github.com/vorssaint/vorssaint-utils/pull/2040))
+- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Proposed the forgotten screenshots category for the Cleaner. Credited in the changelog. ([#1862](https://github.com/vorssaint/vorssaint-utils/discussions/1862) · [#2036](https://github.com/vorssaint/vorssaint-utils/pull/2036))
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
