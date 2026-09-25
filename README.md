@@ -36,7 +36,7 @@ I'm always building something. If any of this is interesting, reach out.
 
 ### Contributions
 
-- 🧹 [Vorssaint](https://github.com/vorssaint/vorssaint-utils) - Proposed the forgotten screenshots category for the Cleaner: macOS marks its own captures, so the ones you never renamed, moved or opened again can be found and cleared. It shipped, and I'm credited in the [changelog](https://github.com/vorssaint/vorssaint-utils/blob/main/CHANGELOG.md). ([discussion](https://github.com/vorssaint/vorssaint-utils/discussions/1862) · [PR](https://github.com/vorssaint/vorssaint-utils/pull/2040))
+- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Forgotten screenshots category for the Cleaner. Shipped and credited in the changelog. ([#1862](https://github.com/vorssaint/vorssaint-utils/discussions/1862) · [#2040](https://github.com/vorssaint/vorssaint-utils/pull/2040))
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
