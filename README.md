@@ -36,7 +36,7 @@ I'm always building something. If any of this is interesting, reach out.
 
 ### Contributions / Mentions
 
-- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Contributor. Mac utilities app, worked on the Cleaner.
+- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Mac utilities app. Worked on the Cleaner.
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
