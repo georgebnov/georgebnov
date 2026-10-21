@@ -36,7 +36,7 @@ I'm always building something. If any of this is interesting, reach out.
 
 ### Contributions / Mentions
 
-- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Mac utilities app. Worked on the Cleaner. optimized threading so it stays responsive across multiple tabs.
+- 🧹 [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) - Mac utilities app. Worked on the Cleaner. Optimized threading so it doesn't lag other opened apps.
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
